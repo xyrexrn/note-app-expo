@@ -106,7 +106,7 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
-Built with ❤️ by **astralvoidd**
+Built with ❤️ by **Xyrex**
 
 If you enjoyed this project, consider giving it a ⭐.
 
