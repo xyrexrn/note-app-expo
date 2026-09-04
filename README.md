@@ -64,7 +64,7 @@ src/
 Clone the repository:
 
 ```bash
-git clone https://github.com/astralvoidd/note-app-expo.git
+git clone https://github.com/xyrexrn/note-app-expo.git
 ```
 
 Navigate to the project directory:
